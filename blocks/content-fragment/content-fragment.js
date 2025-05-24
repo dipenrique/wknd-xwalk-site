@@ -3,7 +3,7 @@ const aem_publish = "https://publish-p129419-e1377476.adobeaemcloud.com";
 const AEM_HOST = checkDomain()
 
 function checkDomain(){
-  if (window.location.hostname.includes("hlx.page") || window.location.hostname.includes("hlx.live") || window.location.hostname.includes("localhost")){
+  if (window.location.hostname.includes("hlx.page") || window.location.hostname.includes("hlx.live") || window.location.hostname.includes("aem.page") || window.location.hostname.includes("aem.live") || window.location.hostname.includes("localhost")){
     return aem_publish    
   }else{
     return window.location.origin 
