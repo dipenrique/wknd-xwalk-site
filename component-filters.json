@@ -16,7 +16,8 @@
         "text",
         "image",
         "button",
-        "title"
+        "title",
+        "text2"
       ]
     },
     {
@@ -35,7 +36,8 @@
         "blockquote",
         "article-details",
         "content-fragment",
-        "workfront-reference"
+        "workfront-reference",
+        "text2"
       ]
     },
     {
