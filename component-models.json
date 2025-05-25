@@ -12,10 +12,14 @@
       {
         "component": "select",
         "name": "type",
-        "value": "h6",
+        "value": "p",
         "label": "Type",
         "valueType": "string",
         "options": [
+          {
+            "name": "p",
+            "value": "p"
+          },
           {
             "name": "h1",
             "value": "h1"
