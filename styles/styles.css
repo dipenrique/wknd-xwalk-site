@@ -239,7 +239,7 @@ main input:hover {
 
 /* stylelint-disable no-descending-specificity */
 main .section {
-  padding: 64px 16px;
+/*   padding: 64px 16px; */
 }
 /* stylelint-enable no-descending-specificity */
 
