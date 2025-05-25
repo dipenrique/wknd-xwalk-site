@@ -13,17 +13,16 @@
     {
       "id": "column",
       "components": [
-        "text",
+        "text2",
         "image",
         "button",
-        "title",
-        "text2"
+        "title"
       ]
     },
     {
       "id": "section",
       "components": [
-        "text",
+        "text2",
         "image",
         "button",
         "title",
@@ -36,8 +35,7 @@
         "blockquote",
         "article-details",
         "content-fragment",
-        "workfront-reference",
-        "text2"
+        "workfront-reference"
       ]
     },
     {
