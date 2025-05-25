@@ -12,7 +12,6 @@
               "page": {
                 "resourceType": "core/franklin/components/title/v1/title",
                 "template": {
-                  "type": "h4"
                 }
               }
             }
