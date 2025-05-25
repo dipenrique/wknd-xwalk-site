@@ -6,7 +6,7 @@
       "components": [
         {
           "title": "Text",
-          "id": "text",
+          "id": "text2",
           "plugins": {
             "xwalk": {
               "page": {
